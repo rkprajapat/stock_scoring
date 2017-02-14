@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # remove data directory
-/data/
+data/*
 
 # Distribution / packaging
 .Python
